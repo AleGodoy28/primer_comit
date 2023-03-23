@@ -1,0 +1,23 @@
+h1 {
+    color: brown;
+}
+
+
+
+img{
+    border:solid 10px rgb(44, 44, 131);
+    border-radius: 10px;
+    width: 300px;
+    float: left;
+    margin-right: 60px;
+    
+    
+}
+
+ul{
+    
+    color: blueviolet;
+}
+ol{
+    color: rgb(112, 209, 33);
+}
